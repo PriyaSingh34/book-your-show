@@ -1,9 +1,6 @@
 # Book Your Show
 
-<h3 align="center">
-  Book Your Show Website preview <br/>
-  <a href="https://book-your-show-ui.onrender.com/" target="_blank"><img alt="Demo" src="./redme-Img.png" /> </a>
-</h3>
+
 
 <br>
 <h5>This is a Ticket Booking website where the user can book a movie with specified seats at a specified slot and get a confirmation that, wheteher booking was sucessful or not.
@@ -12,8 +9,7 @@ The movie booked by the user will be stored in database and is retrived and show
 
 
 ## 📖 Website's Live URL  
-  https://book-your-show-ui.onrender.com/  
-  (or you can just click on above image will redirect you to the website)
+  
 
 
 ## ⭐ Technologies that are used.
@@ -45,6 +41,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.
 
 ##
-<h4 align="center">Made with ❤️ from Anish</h4>
+<h4 align="center">Made with 😁</h4>
 <h4 align="center">Thank You</h4>
 
